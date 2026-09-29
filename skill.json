@@ -1,0 +1,20 @@
+{
+  "name": "genpark-image-token-cost-calculator-skill",
+  "version": "1.0.0",
+  "description": "Multi-modal vision token cost and tile decomposition calculator for OpenAI, Anthropic, and Google architectures",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "vision-token-calculator",
+    "token-budget",
+    "image-pricing",
+    "multimodal-llm",
+    "cost-estimation",
+    "python-standard-library",
+    "agent-skills",
+    "vision-tokens",
+    "finops",
+    "developer-tools"
+  ]
+}
